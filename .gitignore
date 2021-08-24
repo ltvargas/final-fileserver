@@ -1,0 +1,13 @@
+
+*.o
+#Ejecutables
+s_server
+c_client
+
+#Contenedores
+fileClient
+fileServer
+libs
+
+#Librerías
+*.a
